@@ -1,5 +1,5 @@
-###Progetto Leonardo Streghi classe 5a 
-##traccia 2
+# Progetto Leonardo Streghi classe 5a 
+## traccia 2
 
 pagina 1: visualizzazione dell'intro del festival musicale
 
