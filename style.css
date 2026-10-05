@@ -1,0 +1,153 @@
+/* STILE GENERALE */
+
+body {
+    margin: 0;
+    background-color: #10051f;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+/* HEADER */
+
+header {
+    background-color: #1b0b32;
+    padding: 20px;
+    border-bottom: 2px solid #302597;
+}
+
+
+/* LOGO */
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+.logo span {
+    color: #c56cff;
+}
+
+
+/* MENU */
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 12px;
+    font-size: 17px;
+}
+
+nav a:hover {
+    color: #c56cff;
+}
+
+nav a.active {
+    color: #c56cff;
+    border-bottom: 2px solid #c56cff;
+    padding-bottom: 5px;
+}
+
+
+/* TITOLI */
+
+h1 {
+    font-size: 42px;
+    color: #c56cff;
+    margin-top: 50px;
+}
+
+h2 {
+    color: #c56cff;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+h3 {
+    color: #dfb3ff;
+}
+
+
+/* TESTO */
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+
+/* IMMAGINI */
+
+img {
+    width: 80%;
+    max-width: 1000px;
+    border-radius: 15px;
+    margin: 30px auto;
+    box-shadow: 0 0 20px #8e44ad;
+}
+
+
+/* LISTA ARTISTI E PREZZI */
+
+ul {
+    list-style: none;
+    padding: 0;
+    width: 500px;
+    max-width: 90%;
+    margin: 25px auto;
+}
+
+li {
+    background-color: #24103d;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #8e44ad;
+}
+
+
+/* BOTTONE */
+
+button {
+    background-color: #9b4dcc;
+    color: white;
+
+    border: none;
+    border-radius: 25px;
+
+    padding: 14px 30px;
+
+    font-size: 17px;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    margin: 20px;
+}
+
+button:hover {
+    background-color: #c56cff;
+}
+
+
+/* EFFETTO SULL'IMMAGINE */
+
+img:hover {
+    box-shadow: 0 0 30px #c56cff;
+}
+
+
+/* TESTO IMPORTANTE */
+
+strong {
+    color: #e0b3ff;
+}
+
+
+
+
